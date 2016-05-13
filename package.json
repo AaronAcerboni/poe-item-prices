@@ -1,0 +1,25 @@
+{
+  "name": "poe-item-prices",
+  "version": "1.0.0",
+  "description": "This is a command line tool for fetching the prices of fictional items on a game called Path of Exile.",
+  "main": "price.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "commander": "^2.9.0",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronAcerboni/poe-item-prices.git"
+  },
+  "author": "aaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronAcerboni/poe-item-prices/issues"
+  },
+  "homepage": "https://github.com/AaronAcerboni/poe-item-prices#readme"
+}
